@@ -1,0 +1,12 @@
+.divStyle {
+  text-align: center;
+  color: gray;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid grey;
+  border-radius: 25px;
+}
+#countryCountainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
